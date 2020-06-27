@@ -23,4 +23,4 @@ vectorization and cosine similarity
   1) EMBEDDING AND CHUNKING(.ipynb)
   2) chunk.ipynb
   3) NER (Regional language.ipynb)
-  4) Regional language using INlTK
+  4) Regional language using INlTK (hindi rl.ipynb)
